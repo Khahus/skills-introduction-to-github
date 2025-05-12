@@ -1,4 +1,4 @@
-## Step 2: Commit a file
+## Step 2: Commit a file (Changement dans ce fichier)
 
 _You created a branch! :tada:_
 
